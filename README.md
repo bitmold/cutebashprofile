@@ -6,4 +6,4 @@ nothing too crazy here:
 - git branch 
 - some color config
 
-
+<img src="https://raw.githubusercontent.com/bitmold/cutebashprofile/main/example.png"/>
